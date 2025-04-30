@@ -1,7 +1,7 @@
 import {Role} from "./role_type";
 
 export class Person {
-
+// A simple definition of a person
     #firstName: string;
     #lastName: string;
     #role: Role;
